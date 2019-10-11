@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import "./App.css";
+// import "./App.css";
 
 import graph from "fbgraph";
 import FacebookLogin from "react-facebook-login";
